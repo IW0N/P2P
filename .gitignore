@@ -1,0 +1,10 @@
+AndroidP2P/
+Free2P/
+STUNActiveServers/
+STUNTests/
+WinP2P/
+*.csproj.user
+*/bin
+*/obj
+*/Properties
+*/.vs
